@@ -22,4 +22,6 @@ test:
 
 production:
   <<: *default
-  database: db/production.sqlite3
+  database: d8kl8u5k1h580h
+  username: yrdlqzxkrxzggm
+  password: 8fbae59d9b517656449244f46644a809eb2ebdb3a8f0c035c9c9d83410be04a9
